@@ -5,7 +5,7 @@ Friend Finder is a compatibility-based application (similar to a dating app). Th
 ## Deployed Version: 
 
 ## Installation
-To install the application follow the instructions below:
+To install the application follow the instructions below:https://sheltered-cliffs-72277.herokuapp.com/
 
 ``` 
  *  git clone *https://github.com/msiller93/Friend-Finder.git*
